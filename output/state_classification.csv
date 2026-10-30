@@ -1,0 +1,34 @@
+state,from_fy,to_fy,per_capita_gain_pct,gsdp_gain_pct,gain_gap_pct,quick_class,state_class
+arunachal pradesh,2019-20,2023-24,121.43,46.52,74.91,goods outgrowing economy,Strong Outperformer
+tripura,2019-20,2023-24,102.78,52.58,50.2,goods outgrowing economy,Strong Outperformer
+chhattisgarh,2019-20,2023-24,95.24,46.77,48.47,goods outgrowing economy,Strong Outperformer
+meghalaya,2019-20,2023-24,84.0,36.27,47.73,goods outgrowing economy,Strong Outperformer
+odisha,2019-20,2023-24,99.15,54.94,44.21,goods outgrowing economy,Strong Outperformer
+madhya pradesh,2019-20,2023-24,90.91,46.93,43.98,goods outgrowing economy,Strong Outperformer
+jharkhand,2019-20,2023-24,87.64,48.57,39.07,goods outgrowing economy,Strong Outperformer
+tamil nadu,2019-20,2023-24,88.46,54.9,33.56,goods outgrowing economy,Strong Outperformer
+puducherry,2019-20,2023-24,60.16,26.88,33.28,goods outgrowing economy,Strong Outperformer
+telangana,2019-20,2023-24,86.15,54.09,32.06,goods outgrowing economy,Strong Outperformer
+punjab,2019-20,2023-24,68.86,37.13,31.73,goods outgrowing economy,Strong Outperformer
+jammu and kashmir,2019-20,2023-24,81.58,50.19,31.39,goods outgrowing economy,Strong Outperformer
+karnataka,2019-20,2023-24,85.99,54.76,31.23,goods outgrowing economy,Strong Outperformer
+nagaland,2019-20,2023-24,62.5,33.96,28.54,goods outgrowing economy,Outperformer
+gujarat,2019-20,2023-24,74.62,50.01,24.61,goods outgrowing economy,Outperformer
+maharashtra,2019-20,2023-24,74.83,52.19,22.64,goods outgrowing economy,Outperformer
+rajasthan,2019-20,2023-24,75.0,52.4,22.6,goods outgrowing economy,Outperformer
+goa,2019-20,2023-24,64.15,41.98,22.17,goods outgrowing economy,Outperformer
+haryana,2019-20,2023-24,70.23,48.44,21.79,goods outgrowing economy,Outperformer
+bihar,2019-20,2023-24,68.18,46.85,21.33,goods outgrowing economy,Outperformer
+west bengal,2019-20,2023-24,65.52,44.25,21.27,goods outgrowing economy,Outperformer
+kerala,2019-20,2023-24,60.0,40.98,19.02,goods outgrowing economy,Outperformer
+andhra pradesh,2019-20,2023-24,70.19,55.5,14.69,goods outgrowing economy,Outperformer
+himachal pradesh,2019-20,2023-24,44.44,30.32,14.12,goods outgrowing economy,Outperformer
+andaman and nicobar,2019-20,2023-24,35.0,28.0,7.0,goods outgrowing economy,In Line
+uttar pradesh,2019-20,2023-24,52.75,49.87,2.88,goods outgrowing economy,In Line
+chandigarh,2019-20,2023-24,46.61,44.02,2.59,goods outgrowing economy,In Line
+assam,2019-20,2023-24,62.32,63.01,-0.69,goods lagging economy,In Line
+sikkim,2019-20,2023-24,54.65,55.65,-1.0,goods lagging economy,In Line
+delhi,2019-20,2023-24,35.91,39.71,-3.8,goods lagging economy,In Line
+uttarakhand,2019-20,2023-24,40.05,44.7,-4.65,goods lagging economy,In Line
+manipur,2019-20,2023-24,40.0,45.66,-5.66,goods lagging economy,In Line
+mizoram,2019-20,2023-24,15.09,33.16,-18.07,goods lagging economy,Underperformer

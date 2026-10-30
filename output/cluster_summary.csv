@@ -1,0 +1,4 @@
+cluster_id,cluster_name,cluster_rank,cluster_hub_score,states,avg_forecast_growth_pct,avg_per_capita_amount,avg_gsdp_gain_pct,avg_volatility_pct,state_list
+1,Low Volatility,1,0.07,23,11.82,0.03,46.87,10.43,"Andhra Pradesh, Assam, Bihar, Chandigarh, Chhattisgarh, Delhi, Goa, Haryana, Himachal Pradesh, Jammu And Kashmir, Jharkhand, Karnataka, Madhya Pradesh, Meghalaya, Nagaland, Punjab, Rajasthan, Sikkim, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal"
+0,"High Forecast Growth, Low Per Capita",2,0.0,5,25.71,0.01,41.66,17.18,"Andaman And Nicobar, Arunachal Pradesh, Manipur, Mizoram, Odisha"
+2,"High Volatility, High Per Capita",3,-0.32,5,14.9,0.08,44.99,35.75,"Gujarat, Kerala, Maharashtra, Puducherry, Tamil Nadu"

@@ -1,0 +1,7 @@
+model,mean_mape_pct,median_mape_pct
+SARIMA,8.43,6.03
+AutoTheta,8.82,6.87
+ARIMA,9.15,7.64
+AutoETS,9.33,7.9
+Naive,10.29,8.4
+SeasonalNaive,12.36,11.2

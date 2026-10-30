@@ -1,0 +1,5 @@
+state_class,states,avg_per_capita_gain_pct,avg_gsdp_gain_pct,avg_gap_pct,state_list
+Strong Outperformer,13,88.64,46.96,41.68,"Arunachal Pradesh, Tripura, Chhattisgarh, Meghalaya, Odisha, Madhya Pradesh, Jharkhand, Tamil Nadu, Puducherry, Telangana, Punjab, Jammu And Kashmir, Karnataka"
+Outperformer,11,66.33,45.17,21.16,"Nagaland, Gujarat, Maharashtra, Rajasthan, Goa, Haryana, Bihar, West Bengal, Kerala, Andhra Pradesh, Himachal Pradesh"
+In Line,8,45.91,46.33,-0.42,"Andaman And Nicobar, Uttar Pradesh, Chandigarh, Assam, Sikkim, Delhi, Uttarakhand, Manipur"
+Underperformer,1,15.09,33.16,-18.07,Mizoram

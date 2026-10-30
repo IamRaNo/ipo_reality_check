@@ -1,0 +1,34 @@
+state,forecast_growth_pct,avg_per_capita_amount,gsdp_gain_pct,volatility_pct,cluster_id,cluster_name,cluster_hub_score,cluster_rank
+andhra pradesh,16.52,0.022,55.5,7.9,1,Low Volatility,0.07,1
+assam,9.13,0.0089,63.01,9.06,1,Low Volatility,0.07,1
+bihar,13.2,0.0029,46.85,8.27,1,Low Volatility,0.07,1
+chandigarh,10.6,0.046,44.02,9.62,1,Low Volatility,0.07,1
+chhattisgarh,18.89,0.0154,46.77,8.1,1,Low Volatility,0.07,1
+delhi,17.01,0.0724,39.71,11.36,1,Low Volatility,0.07,1
+goa,11.55,0.0826,41.98,11.81,1,Low Volatility,0.07,1
+haryana,14.82,0.0793,48.44,9.22,1,Low Volatility,0.07,1
+himachal pradesh,9.76,0.0443,30.32,7.1,1,Low Volatility,0.07,1
+jammu and kashmir,9.24,0.0106,50.19,10.82,1,Low Volatility,0.07,1
+jharkhand,13.34,0.0128,48.57,10.79,1,Low Volatility,0.07,1
+karnataka,13.12,0.0359,54.76,12.81,1,Low Volatility,0.07,1
+madhya pradesh,13.4,0.0093,46.93,22.72,1,Low Volatility,0.07,1
+meghalaya,9.53,0.0071,36.27,11.1,1,Low Volatility,0.07,1
+nagaland,7.68,0.0042,33.96,12.26,1,Low Volatility,0.07,1
+punjab,8.5,0.0389,37.13,7.58,1,Low Volatility,0.07,1
+rajasthan,14.27,0.018,52.4,8.94,1,Low Volatility,0.07,1
+sikkim,2.03,0.0672,55.65,13.59,1,Low Volatility,0.07,1
+telangana,11.13,0.0332,54.09,8.63,1,Low Volatility,0.07,1
+tripura,12.57,0.0053,52.58,11.66,1,Low Volatility,0.07,1
+uttar pradesh,12.65,0.0112,49.87,8.75,1,Low Volatility,0.07,1
+uttarakhand,13.49,0.0445,44.7,9.14,1,Low Volatility,0.07,1
+west bengal,9.54,0.015,44.25,8.65,1,Low Volatility,0.07,1
+andaman and nicobar,31.85,0.0022,28.0,18.84,0,"High Forecast Growth, Low Per Capita",0.0,2
+arunachal pradesh,32.45,0.0066,46.52,15.16,0,"High Forecast Growth, Low Per Capita",0.0,2
+manipur,17.48,0.0033,45.66,17.96,0,"High Forecast Growth, Low Per Capita",0.0,2
+mizoram,20.66,0.0056,33.16,16.93,0,"High Forecast Growth, Low Per Capita",0.0,2
+odisha,26.13,0.0174,54.94,17.02,0,"High Forecast Growth, Low Per Capita",0.0,2
+gujarat,12.94,0.0531,50.01,36.79,2,"High Volatility, High Per Capita",-0.32,3
+kerala,16.52,0.0158,40.98,33.8,2,"High Volatility, High Per Capita",-0.32,3
+maharashtra,13.89,0.0393,52.19,32.44,2,"High Volatility, High Per Capita",-0.32,3
+puducherry,19.86,0.232,26.88,42.89,2,"High Volatility, High Per Capita",-0.32,3
+tamil nadu,11.28,0.0386,54.9,32.82,2,"High Volatility, High Per Capita",-0.32,3
