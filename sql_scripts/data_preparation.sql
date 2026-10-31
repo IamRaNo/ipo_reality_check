@@ -157,7 +157,7 @@ with ranked as(
         rank() over(partition by company order by date) as rnk,
         lead(`date`, 21) over (partition by company order by `date`) as after_30_date,
         lead(close, 21) over (partition by company order by `date`) as after_30_close,
-        lead(open, 32) over (partition by company order by `date`) as after_30_open,
+        lead(open, 22) over (partition by company order by `date`) as after_30_open,
         lead(close, 250) over (partition by company order by `date`) as after_year_close
     from prices
 )
