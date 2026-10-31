@@ -20,6 +20,10 @@ SELECT min(date),max(date), "NIFTY" from nifty
 union ALL
 select min(date), max(date),'VIX' from vix;
 
+
+
+
+
 ------------------------------------------------
 -- Creating the Data to solve the first question
 ------------------------------------------------
@@ -170,4 +174,33 @@ where rnk = 1
 
 ------------------------------------------------
 -- Created The Data to solve the second question
+------------------------------------------------
+
+
+
+
+
+------------------------------------------------
+-- Creating The Data to solve the third question
+------------------------------------------------
+
+
+create view regression_data as(
+select g.company,
+       g.listing_date,
+       g.excess_return,
+       g.growth_first_day as listing_pop,
+       i.total as subscription,
+       v.close as vix_close,
+       n.open as nifty_open,
+       n.close as nifty_close
+from overall_growth g
+join ipo i on g.company = i.company and g.listing_date = i.date
+join vix v on g.listing_date = v.date
+join nifty n on g.listing_date = n.date
+);
+
+
+------------------------------------------------
+-- Created The Data to solve the third question
 ------------------------------------------------
